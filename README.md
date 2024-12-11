@@ -1,4 +1,6 @@
-## Hi there 👋
+* 👋Hi, I'm Milo Miles
+* 👀I'm interested in Database Administration and Computer Systems
+* 📫How to reach me miles191@umn.edu 
 
 <!--
 **miles191/miles191** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
